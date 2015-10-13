@@ -13,7 +13,6 @@ hs_err_pid*
 
 # Eclipse files and directories
 .classpath
-.gitignore
 .project
 .settings/
 
